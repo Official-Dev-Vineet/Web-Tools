@@ -1,0 +1,49 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "Discover essential web tools for productivity, design, development, and more. Streamline workflows, enhance creativity, and boost efficiency with our curated collection of online resources. Start optimizing your digital toolkit today!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web",
+    "tools",
+    "image",
+    "compression",
+    "audio",
+    "compression",
+    "video",
+    "compression",
+    "text",
+    "compression",
+    "text",
+    "converter",
+    "productivity",
+    "tools",
+    "online",
+    "utilities",
+    "digital",
+    "optimization",
+    "multimedia",
+    "tools",
+    "file",
+    "size",
+    "reduction",
+    "content",
+    "conversion",
+    "efficiency",
+    "enhancement"
+  ],
+  "author": "Official Dev Vineet",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}

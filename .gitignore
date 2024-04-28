@@ -1,0 +1,6 @@
+# file
+.env
+# folder 
+node_modules
+# public/webTools
+public/media
